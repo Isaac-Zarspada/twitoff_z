@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 flask = "*"
+scikit-learn = "*"
+numpy = "*"
+sklearn = "*"
+spacy = "*"
 
 [dev-packages]
 
